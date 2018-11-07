@@ -1,6 +1,6 @@
 [![CodinGame](/CodinGame.png)](https://www.codingame.com/ "CodinGame")
 
-<br><br>
+<br>
 
 # CodinGame Solutions
 
@@ -10,9 +10,9 @@ In this reposority you will find my working solutions for puzzles on the platfor
 
 
 ## Completed Puzzles
-| No. | Puzzle Name                  | State                        | Languages                    |
-|-----|------------------------------|------------------------------|------------------------------|
-| 0   | Test                         | :x: Not Completed            |                              |
+| No. | Puzzle Name                  | State                        | Difficulty                   | Languages                    |
+|-----|------------------------------|------------------------------|------------------------------|------------------------------|
+| 0   | Test                         | :x: Not Completed            | None                         |                              |
 
 
 ## Disclaimer
