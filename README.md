@@ -1,3 +1,5 @@
+![CodinGame](/CodinGame.jpg "CodinGame")
+
 # CodinGame Solutions
 
 
