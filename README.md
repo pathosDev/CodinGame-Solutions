@@ -1,4 +1,4 @@
-![CodinGame](/CodinGame.png "CodinGame")
+[![CodinGame](/CodinGame.png)](https://www.codingame.com/ "CodinGame")
 
 # CodinGame Solutions
 
