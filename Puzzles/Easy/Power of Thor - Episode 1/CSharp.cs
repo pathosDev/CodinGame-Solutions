@@ -28,6 +28,7 @@ public class Solution
 
             string move = "";
 
+            //Vertical movement.
             if (lightY > initialTY)
             {
                 initialTY++;
@@ -39,6 +40,7 @@ public class Solution
                 move += "N";
             }
             
+            //Horizontal movement.
             if (lightX > initialTX)
             {
                 initialTX++;
@@ -50,6 +52,7 @@ public class Solution
                 move += "W";
             }
             
+            //Output next move.
             Console.WriteLine(move);
         }
     }
