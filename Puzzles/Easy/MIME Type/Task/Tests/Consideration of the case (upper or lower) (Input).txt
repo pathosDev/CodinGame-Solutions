@@ -1,0 +1,13 @@
+4
+7
+png image/png
+TIFF image/TIFF
+css text/css
+TXT text/plain
+example.TXT
+referecnce.txt
+strangename.tiff
+resolv.CSS
+matrix.TiFF
+lanDsCape.Png
+extract.cSs

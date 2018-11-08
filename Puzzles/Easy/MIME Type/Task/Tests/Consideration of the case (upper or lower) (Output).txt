@@ -1,0 +1,7 @@
+text/plain
+text/plain
+image/TIFF
+text/css
+image/TIFF
+image/png
+text/css
