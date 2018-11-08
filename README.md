@@ -8,7 +8,7 @@
 ## Introduction
 In this reposority you will find my working solutions for puzzles on the platform https://www.codingame.com/. In the table below you can see which puzzles I already completed.
 
-> **Info:** It is not my intention to write code as short as possible! I just want to make my code understandable and clean.
+> **Info:** It is not my intention to write the solutions as short as possible! I just want to make my code understandable and clean.
 
 ## Completed Puzzles
 | No. | Puzzle Name                                                                                                                       | State                        | Difficulty | Languages                                                                                                                                                                                                                                                                                                                                            |

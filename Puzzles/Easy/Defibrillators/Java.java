@@ -16,6 +16,7 @@ public class Solution
     {
         //Read inputs.
         Scanner scanner = new Scanner(System.in);
+
         double lonA = Double.parseDouble(scanner.nextLine().replace(",", "."));
         double latA = Double.parseDouble(scanner.nextLine().replace(",", "."));
         int N = Integer.parseInt(scanner.nextLine());
