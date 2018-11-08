@@ -16,7 +16,6 @@ public class Solution
     {
         //Read inputs.
         Scanner scanner = new Scanner(System.in);
-
         double lonA = Double.parseDouble(scanner.nextLine().replace(",", "."));
         double latA = Double.parseDouble(scanner.nextLine().replace(",", "."));
         int N = Integer.parseInt(scanner.nextLine());
@@ -51,20 +50,14 @@ public class Solution
     //Calculates the distance between two points on earth.
     private static double Distance(double lonA, double latA, double lonB, double latB)
     {
-        lonA = DegToRad(lonA);
-        lonB = DegToRad(lonB);
-        latA = DegToRad(latA);
-        latB = DegToRad(latB);
+        lonA = Math.toRadians(lonA);
+        lonB = Math.toRadians(lonB);
+        latA = Math.toRadians(latA);
+        latB = Math.toRadians(latB);
         
         double x = (lonB - lonA) * Math.cos((latA + latB) / 2);
         double y = latB - latA;
         
         return Math.sqrt(x * x + y * y) * 6371;
-    }
-    
-    //Converts degrees to radians.
-    private static double DegToRad(double angle)
-    {
-        return angle * (Math.PI / 180);   
     }
 }
