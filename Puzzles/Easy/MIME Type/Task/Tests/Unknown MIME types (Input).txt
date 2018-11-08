@@ -1,0 +1,9 @@
+3
+4
+txt text/plain
+xml text/xml
+flv video/x-flv
+image.png
+animated.gif
+script.js
+source.cpp

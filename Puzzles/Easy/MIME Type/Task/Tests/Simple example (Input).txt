@@ -1,0 +1,8 @@
+3
+3
+html text/html
+png image/png
+gif image/gif
+animated.gif
+portrait.png
+index.html
