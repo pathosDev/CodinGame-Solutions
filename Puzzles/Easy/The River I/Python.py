@@ -15,7 +15,7 @@ def getNextRiverNumber(riverNumber):
     while riverNumber > 0:
         nextRiverNumber += riverNumber % 10
         riverNumber -= riverNumber % 10
-        riverNumber /= 10
+        riverNumber //= 10
     
     return nextRiverNumber
 
@@ -31,4 +31,4 @@ while r1 != r2:
         r2 = getNextRiverNumber(r2)
 
 #Output meeting point.
-print(round(r1))
+print(r1)
