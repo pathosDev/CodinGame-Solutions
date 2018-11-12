@@ -1,0 +1,4 @@
+3
+This is the (first|second|third) choice.
+This is the (first|second|third) choice.
+This is the (first|second|third) choice.

@@ -1,0 +1,8 @@
+7
+(Hello|Hi|Bonjour|Salut|Hey) (les amis|coders|bande de @$%*),
+
+I keep getting an error( 492|) in the notification area.
+Are you aware of that?
+
+(Bye|Ciao|Fsck off|Best regards),
+Your Name Here
