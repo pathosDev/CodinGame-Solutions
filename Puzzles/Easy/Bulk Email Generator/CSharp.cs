@@ -29,7 +29,7 @@ public class Solution
         int choicesCounter = -1;
 
         //Find all choices.
-        string email = new Regex(@"\([^)]*\)").Replace(emailTemplate, (match) => 
+        string email = Regex.Replace(emailTemplate, @"\([^)]*\)", (match) => 
         {
             choicesCounter++;
 
