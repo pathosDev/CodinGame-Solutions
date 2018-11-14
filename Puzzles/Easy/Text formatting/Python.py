@@ -14,7 +14,6 @@ import re
 text = input().lower().strip()
 
 #Remove excessive spaces.
-#text = Regex.Replace(text, @"\s{2,}", " ");
 text = re.sub(r'\s{2,}', ' ', text)
 
 #Remove spaces before and after punctuations.
