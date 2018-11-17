@@ -2,7 +2,7 @@
 #*                                      *#
 #* CodinGame.com Solutions by pathosDev *#
 #*                                      *#
-#* Puzzle: ASCII Art                    *#
+#* Puzzle: ISBN Check digit             *#
 #* Difficulty: Easy                     *#
 #* Date solved: 17.11.2018              *#
 #*                                      *#
