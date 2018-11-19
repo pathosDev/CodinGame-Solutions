@@ -1,0 +1,5 @@
+hit
+hit
+miss
+miss
+hit
