@@ -20,11 +20,9 @@ def isValidISBN10(isbn):
     checkSum = 0
 
     for i in range(len(isbn) - 1):
-        checkSum += (ord(isbn[i]) - ord('0')) * (10 - i)
-
+        checkSum += int(isbn[i]) * (10 - i)
     checkDigit = (11 - checkSum) % 11
-    givenCheckDigit = 10 if isbn[-1] == 'X' else ord(isbn[-1]) - ord('0')
-
+    givenCheckDigit = 10 if isbn[-1] == 'X' else int(isbn[-1])
     #Comparing checkdigits.
     return givenCheckDigit == checkDigit
 
@@ -38,11 +36,9 @@ def isValidISBN13(isbn):
     checkSum = 0
 
     for i in range(len(isbn) - 1):
-        checkSum += (ord(isbn[i]) - ord('0')) * (1 if i % 2 == 0 else 3)
-
+        checkSum += int(isbn[i]) * (1 if i % 2 == 0 else 3)
     checkDigit = (10 - checkSum) % 10
-    givenCheckDigit = 10 if isbn[-1] == 'X' else ord(isbn[-1]) - ord('0')
-
+    givenCheckDigit = 10 if isbn[-1] == 'X' else int(isbn[-1])
     #Comparing checkdigits.
     return givenCheckDigit == checkDigit
     
