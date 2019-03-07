@@ -72,6 +72,12 @@ public class Solution
         }
 
         int checkDigit = (11 - checkSum) % 11;
+
+        if (checkDigit < 0)
+        {
+            checkDigit += 11;
+        }
+
         int givenCheckDigit = isbn.Last() == 'X' ? 10 : isbn.Last() - '0';
 
         //Comparing checkdigits.
@@ -96,6 +102,12 @@ public class Solution
         }
 
         int checkDigit = (10 - checkSum) % 10;
+
+        if (checkDigit < 0)
+        {
+            checkDigit += 10;
+        }
+
         int givenCheckDigit = isbn.Last() == 'X' ? 10 : isbn.Last() - '0';
 
         //Comparing checkdigits.
