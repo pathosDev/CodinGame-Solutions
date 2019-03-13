@@ -1,0 +1,27 @@
+26
+KingGeorgeVI - 1895 1952 Anglican M
+QueenElizabethII KingGeorgeVI 1926 - Anglican F
+CharlesPrinceofWales QueenElizabethII 1948 - Anglican M
+PrinceWilliamDukeofCambridge CharlesPrinceofWales 1982 - Anglican M
+PrinceGeorgeofCambridge PrinceWilliamDukeofCambridge 2013 - Anglican M
+PrincessCharlotteofCambridge PrinceWilliamDukeofCambridge 2015 - Anglican F
+PrinceHenryofWales CharlesPrinceofWales 1984 - Anglican M
+PrinceAndrewDukeofYork QueenElizabethII 1960 - Anglican M
+PrincessBeatriceofYork PrinceAndrewDukeofYork 1988 - Anglican F
+PrincessEugenieofYork PrinceAndrewDukeofYork 1990 - Anglican F
+PrinceEdwardEarlofWessex QueenElizabethII 1964 - Anglican M
+JamesViscountSevern PrinceEdwardEarlofWessex 2007 - Anglican M
+LadyLouiseWindsor PrinceEdwardEarlofWessex 2003 - Anglican F
+AnnePrincessRoyal QueenElizabethII 1950 - Anglican F
+PeterPhillips AnnePrincessRoyal 1977 - Anglican M
+SavannahPhillips PeterPhillips 2010 - Anglican F
+IslaPhillips PeterPhillips 2012 - Anglican F
+ZaraTindall AnnePrincessRoyal 1981 - Anglican F
+MiaTindall ZaraTindall 2014 - Anglican F
+PrincessMargaretCountessofSnowdon KingGeorgeVI 1930 2002 Anglican F
+DavidArmstrong-Jones2ndEarlofSnowdon PrincessMargaretCountessofSnowdon 1961 - Anglican M
+CharlesArmstrong-JonesViscountLinley DavidArmstrong-Jones2ndEarlofSnowdon 1999 - Anglican M
+LadyMargaritaArmstrong-Jones DavidArmstrong-Jones2ndEarlofSnowdon 2002 - Anglican F
+LadySarahChatto PrincessMargaretCountessofSnowdon 1964 - Anglican F
+SamuelChatto LadySarahChatto 1996 - Anglican M
+ArthurChatto LadySarahChatto 1999 - Anglican M
