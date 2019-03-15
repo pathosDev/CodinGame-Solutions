@@ -1,0 +1,8 @@
+7
+50 too low
+75 too high
+62 too low
+69 too low
+72 too high
+70 too low
+17 right on

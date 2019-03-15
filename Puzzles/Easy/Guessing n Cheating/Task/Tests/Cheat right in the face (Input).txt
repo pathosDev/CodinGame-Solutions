@@ -1,0 +1,6 @@
+5
+47 too low
+48 too high
+49 too high
+50 too high
+47 right on

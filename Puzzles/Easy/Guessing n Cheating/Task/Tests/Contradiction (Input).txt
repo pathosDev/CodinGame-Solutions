@@ -1,0 +1,7 @@
+6
+50 too low
+52 too high
+51 too low
+52 too low
+50 too high
+53 right on
