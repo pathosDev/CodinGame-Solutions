@@ -2,7 +2,7 @@
 #*                                      *#
 #* CodinGame.com Solutions by pathosDev *#
 #*                                      *#
-#* Puzzle: ASCII Art                    *#
+#* Puzzle: ISBN Check digit             *#
 #* Difficulty: Easy                     *#
 #* Date solved: 17.11.2018              *#
 #*                                      *#
@@ -15,8 +15,10 @@ def isValidISBN10(isbn):
     #Check allowed characters.
     if not re.fullmatch(r'^\d{9}(\d|X)$', isbn):
         return False
+
     #Calculating checksum.
     checkSum = 0
+
     for i in range(len(isbn) - 1):
         checkSum += int(isbn[i]) * (10 - i)
     checkDigit = (11 - checkSum) % 11
@@ -29,8 +31,10 @@ def isValidISBN13(isbn):
     #Check allowed characters.
     if not re.fullmatch(r'^\d{13}$', isbn):
         return False
+
     #Calculating checksum.
     checkSum = 0
+
     for i in range(len(isbn) - 1):
         checkSum += int(isbn[i]) * (1 if i % 2 == 0 else 3)
     checkDigit = (10 - checkSum) % 10
